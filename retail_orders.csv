@@ -1,0 +1,251 @@
+order_id,order_date,customer_id,customer_name,city,product_id,product_name,category,quantity,unit_price,discount_pct,order_total,payment_method,order_status
+O0001,2025-05-21,C004,Bola Akinyemi,Lagos,P001,Wireless Mouse,Electronics,1,8500,0.0,8500.0,Card,Completed
+O0002,2025-10-30,C018,Maryam Aliyu,Kaduna,P002,USB-C Hub,Electronics,1,18500,0.0,18500.0,Card,Completed
+O0003,2025-01-14,C017,Samuel Okon,Calabar,P010,Backpack,Lifestyle,2,22000,0.15,37400.0,USSD,Completed
+O0004,2025-01-04,C019,Femi Ajayi,Abeokuta,P005,Desk Lamp,Furniture,3,14500,0.0,43500.0,USSD,Completed
+O0005,2025-06-22,C005,Musa Bello,Abuja,P004,Office Chair,Furniture,1,78000,0.05,74100.0,Card,Completed
+O0006,2025-05-16,C012,David James,Benin City,P010,Backpack,Lifestyle,3,22000,0.15,56100.0,USSD,Completed
+O0007,2025-10-10,C013,Ngozi Eze,Lagos,P002,USB-C Hub,Electronics,1,18500,0.15,15725.0,Cash,Completed
+O0008,2025-12-05,C003,Chika Okafor,Enugu,P001,Wireless Mouse,Electronics,1,8500,0.0,8500.0,Card,Completed
+O0009,2025-05-23,C004,Bola Akinyemi,Lagos,P007,Bluetooth Speaker,Electronics,2,26500,0.0,53000.0,Transfer,Completed
+O0010,2025-12-26,C007,Adaeze Nwosu,Port Harcourt,P005,Desk Lamp,Furniture,4,14500,0.15,49300.0,Card,Completed
+O0011,2025-05-06,C006,Zainab Ibrahim,Kano,P009,Laptop Stand,Electronics,1,12500,0.05,11875.0,Cash,Cancelled
+O0012,2025-12-17,C018,Maryam Aliyu,Kaduna,P004,Office Chair,Furniture,1,78000,0.0,78000.0,Transfer,Completed
+O0013,2025-05-18,C011,Fatima Sani,Abuja,P007,Bluetooth Speaker,Electronics,1,26500,0.1,23850.0,Cash,Completed
+O0014,2025-11-26,C016,Grace Peter,Uyo,P007,Bluetooth Speaker,Electronics,2,26500,0.0,53000.0,Transfer,Completed
+O0015,2025-05-15,C018,Maryam Aliyu,Kaduna,P009,Laptop Stand,Electronics,3,12500,0.05,35625.0,USSD,Completed
+O0016,2025-09-10,C005,Musa Bello,Abuja,P009,Laptop Stand,Electronics,1,12500,0.0,12500.0,Card,Completed
+O0017,2025-11-02,C006, ZAINAB IBRAHIM ,Kano,P007,Bluetooth Speaker,Electronics,1,26500,0.05,25175.0,USSD,Completed
+O0018,2025-12-15,C018,Maryam Aliyu,Kaduna,P001,Wireless Mouse,Electronics,2,8500,0.15,14450.0,Cash,Completed
+O0019,2025-05-31,C011,Fatima Sani,Abuja,P002,USB-C Hub,Electronics,1,18500,0.05,17575.0,Card,Cancelled
+O0020,2025-04-02,C009,Kemi Balogun,Lagos,P009,Laptop Stand,Electronics,2,12500,0.0,25000.0,Cash,Completed
+O0021,2025-04-12,C017,Samuel Okon,Calabar,P010,Backpack,Lifestyle,1,22000,0.0,22000.0,Card,Completed
+O0022,2025-02-27,C016,Grace Peter,Uyo,P001,Wireless Mouse,Electronics,4,8500,0.0,34000.0,Transfer,Completed
+O0023,2025-02-13,C019,Femi Ajayi,Abeokuta,P002,USB-C Hub,Electronics,3,18500,0.0,55500.0,Transfer,Completed
+O0024,2025-03-26,C016,Grace Peter,Uyo,P009,Laptop Stand,Electronics,1,12500,0.1,11250.0,USSD,Cancelled
+O0025,2025-06-09,C018,Maryam Aliyu,Kaduna,P004,Office Chair,Furniture,1,78000,0.15,66300.0,Cash,Completed
+O0026,2025-03-03,C017,Samuel Okon,Calabar,P008,Ballpoint Pens,Stationery,1,1800,0.0,1800.0,Cash,Completed
+O0027,2025-10-29,C018,Maryam Aliyu,Kaduna,P004,Office Chair,Furniture,1,78000,0.0,78000.0,Card,Completed
+O0028,2025-02-06,C002,Tunde Adeyemi,Ibadan,P006,Water Bottle,Lifestyle,2,6500,0.0,13000.0,USSD,Completed
+O0029,2025-10-23,C005,Musa Bello,Abuja,P010,Backpack,Lifestyle,2,22000,0.05,41800.0,USSD,Completed
+O0030,2025-07-01,C004,Bola Akinyemi,Lagos,P007,Bluetooth Speaker,Electronics,1,26500,0.05,25175.0,Card,Completed
+O0031,2025-07-26,C004,Bola Akinyemi,Lagos,P001,Wireless Mouse,Electronics,2,8500,0.0,17000.0,Transfer,Completed
+O0032,2025-03-13,C018,Maryam Aliyu,Kaduna,P008,Ballpoint Pens,Stationery,1,1800,0.0,1800.0,USSD,Completed
+O0033,2025-10-09,C003,Chika Okafor,Enugu,P008,Ballpoint Pens,Stationery,1,1800,0.15,1530.0,Card,Cancelled
+O0034,2025-07-28,C008,Emeka Obi,Enugu,P003,Notebook Pack,Stationery,2,3200,0.0,6400.0,USSD,Returned
+O0035,2025-01-02,C006,Zainab Ibrahim,Kano,P007,Bluetooth Speaker,Electronics,5,26500,0.0,132500.0,USSD,Completed
+O0036,2025-03-21,C018,Maryam Aliyu,Kaduna,P008,Ballpoint Pens,Stationery,1,1800,0.0,1800.0,Card,Completed
+O0037,2025-06-10,C018,Maryam Aliyu,Kaduna,P001,Wireless Mouse,Electronics,1,8500,0.1,7650.0,USSD,Completed
+O0038,2025-01-30,C017,Samuel Okon,Calabar,P003,Notebook Pack,Stationery,5,3200,0.0,16000.0,Transfer,Completed
+O0039,2025-07-26,C003,Chika Okafor,Enugu,P004,Office Chair,Furniture,1,78000,0.1,70200.0,Transfer,Completed
+O0040,2025-02-11,C002,Tunde Adeyemi,Ibadan,P010,Backpack,Lifestyle,1,22000,0.1,19800.0,Cash,Returned
+O0041,2025-05-03,C007,Adaeze Nwosu,Port Harcourt,P006,Water Bottle,Lifestyle,1,6500,0.0,6500.0,Cash,Completed
+O0042,2025-08-23,C003,Chika Okafor, Enugu ,P001,Wireless Mouse,Electronics,2,8500,0.1,15300.0,Card,Completed
+O0043,2025-05-16,C007,Adaeze Nwosu,Port Harcourt,P009,Laptop Stand,Electronics,1,12500,0.0,12500.0,Card,Completed
+O0044,2025-03-22,C012,David James,Benin City,P005,Desk Lamp,Furniture,1,14500,0.1,13050.0,Cash,Completed
+O0045,2025-12-08,C017,Samuel Okon,Calabar,P001,Wireless Mouse,Electronics,3,8500,0.0,25500.0,Card,Returned
+O0046,2025-03-01,C005,Musa Bello,Abuja,P005,Desk Lamp,Furniture,4,14500,0.15,49300.0,Transfer,Completed
+O0047,2025-06-25,C020,Ifeoma Nnadi,Owerri,P004,Office Chair,Furniture,1,78000,0.15,66300.0,Cash,Completed
+O0048,2025-02-17,C009,Kemi Balogun,Lagos,P001,Wireless Mouse,Electronics,2,8500,0.0,17000.0,Card,Completed
+O0049,2025-03-24,C005,Musa Bello,Abuja,P005,Desk Lamp,Furniture,3,14500,0.1,39150.0,USSD,Completed
+O0050,2025-12-20,C004,Bola Akinyemi,Lagos,P002,USB-C Hub,Electronics,4,18500,0.1,66600.0,Card,Completed
+O0051,2025-03-17,C019,Femi Ajayi,Abeokuta,P009,Laptop Stand,Electronics,1,12500,0.0,12500.0,Cash,Completed
+O0052,2025-04-18,C002,Tunde Adeyemi,Ibadan,P006,Water Bottle,Lifestyle,2,6500,0.15,11050.0,Card,Completed
+O0053,2025-11-14,C018,Maryam Aliyu,Kaduna,P007,Bluetooth Speaker,Electronics,3,26500,0.0,79500.0,Transfer,Cancelled
+O0054,2025-01-13,C006,Zainab Ibrahim,Kano,P007,Bluetooth Speaker,Electronics,1,26500,0.0,26500.0,USSD,Completed
+O0055,2025-03-23,C008,Emeka Obi,Enugu,P005,Desk Lamp,Furniture,3,14500,0.0,43500.0,USSD,Completed
+O0056,2025-04-13,C016,Grace Peter,Uyo,P004,Office Chair,Furniture,3,78000,0.05,222300.0,Cash,Completed
+O0057,2025-01-13,C008,Emeka Obi,Enugu,P004,Office Chair,Furniture,2,78000,0.05,148200.0,Cash,Completed
+O0058,2025-06-29,C003,Chika Okafor,Enugu,P005,Desk Lamp,Furniture,2,14500,0.05,27550.0,Cash,Returned
+O0059,2025-04-02,C004,Bola Akinyemi,Lagos,P005,Desk Lamp,Furniture,2,14500,0.0,29000.0,Card,Completed
+O0060,2025-06-10,C014,Ibrahim Garba,Kano,P006,Water Bottle,Lifestyle,1,6500,0.1,5850.0,Card,Completed
+O0061,2025-05-11,C019,Femi Ajayi,Abeokuta,P004,Office Chair,Furniture,1,78000,0.05,74100.0,Card,Completed
+O0062,2025-07-06,C018,Maryam Aliyu,Kaduna,P004,Office Chair,Furniture,1,78000,0.15,66300.0,Cash,Completed
+O0063,2025-09-17,C004,Bola Akinyemi,Lagos,P005,Desk Lamp,Furniture,1,14500,0.05,13775.0,Cash,Completed
+O0064,2025-03-07,C010,Seyi Ogunleye,Ibadan,P009,Laptop Stand,Electronics,1,12500,0.15,10625.0,USSD,Completed
+O0065,2025-10-19,C006,Zainab Ibrahim,Kano,P010,Backpack,Lifestyle,1,22000,0.1,19800.0,Card,Completed
+O0066,2025-10-24,C007,Adaeze Nwosu,Port Harcourt,P007,Bluetooth Speaker,Electronics,2,26500,0.0,53000.0,USSD,Completed
+O0067,2025-08-31,C007,Adaeze Nwosu,Port Harcourt,P009,Laptop Stand,Electronics,3,12500,0.15,31875.0,Transfer,Completed
+O0068,2025-12-06,C010,Seyi Ogunleye,Ibadan,P009,Laptop Stand,Electronics,2,12500,0.0,25000.0,Card,Completed
+O0069,2025-04-26,C008,Emeka Obi,Enugu,P005,Desk Lamp,Furniture,3,14500,0.0,43500.0,Card,Completed
+O0070,2025-02-07,C016,Grace Peter,Uyo,P010,Backpack,Lifestyle,2,22000,0.15,37400.0,Transfer,Completed
+O0071,2025-07-24,C013,Ngozi Eze,Lagos,P008,Ballpoint Pens,Stationery,1,1800,0.15,1530.0,Card,Returned
+O0072,2025-04-23,C004,Bola Akinyemi,Lagos,P007,Bluetooth Speaker,Electronics,1,26500,0.15,22525.0,USSD,Completed
+O0073,2025-08-22,C008,Emeka Obi,Enugu,P002,USB-C Hub,Electronics,1,18500,0.05,17575.0,Cash,Cancelled
+O0074,2025-09-16,C015,Tomiwa Lawal,Osogbo,P010,Backpack,Lifestyle,1,22000,0.1,19800.0,USSD,Returned
+O0075,2025-05-13,C016,Grace Peter,Uyo,P008,Ballpoint Pens,Stationery,3,1800,0.15,4590.0,Cash,Completed
+O0076,2025-11-17,C017,Samuel Okon,Calabar,P008,Ballpoint Pens,Stationery,1,1800,0.05,1710.0,Card,Completed
+O0077,2025-06-21,C008,Emeka Obi,Enugu,P005,Desk Lamp,Furniture,1,14500,0.1,13050.0,Card,Completed
+O0078,2025-12-22,C008,Emeka Obi,Enugu,P007,Bluetooth Speaker,Electronics,1,26500,0.0,26500.0,Card,Completed
+O0079,2025-08-27,C011,Fatima Sani,Abuja,P009,Laptop Stand,Electronics,1,12500,0.0,12500.0,USSD,Completed
+O0080,2025-10-22,C019,Femi Ajayi,Abeokuta,P001,Wireless Mouse,Electronics,1,8500,0.0,8500.0,Cash,Completed
+O0081,2025-10-03,C013,Ngozi Eze,Lagos,P007,Bluetooth Speaker,Electronics,3,26500,0.1,71550.0,Transfer,Completed
+O0082,2025-09-06,C009,Kemi Balogun,Lagos,P007,Bluetooth Speaker,Electronics,1,26500,0.0,26500.0,USSD,Completed
+O0083,2025-11-15,C015,Tomiwa Lawal,Osogbo,P003,Notebook Pack,Stationery,2,3200,0.05,6080.0,Card,Completed
+O0084,2025-08-25,C014,Ibrahim Garba,Kano,P003,Notebook Pack,Stationery,1,3200,0.0,3200.0,USSD,Completed
+O0085,2025-06-22,C015,Tomiwa Lawal,Osogbo,P006,Water Bottle,Lifestyle,3,6500,0.05,18525.0,Cash,Completed
+O0086,2025-02-11,C014,Ibrahim Garba,Kano,P005,Desk Lamp,Furniture,2,14500,0.15,24650.0,Card,Cancelled
+O0087,2025-11-29,C012,David James,Benin City,P004,Office Chair,Furniture,1,78000,0.15,66300.0,Card,Completed
+O0088,2025-01-11,C008, EMEKA OBI ,Enugu,P004,Office Chair,Furniture,2,78000,0.0,156000.0,Transfer,Completed
+O0089,2025-04-22,C004,Bola Akinyemi,Lagos,P010,Backpack,Lifestyle,2,22000,0.0,44000.0,Cash,Completed
+O0090,2025-03-25,C020,Ifeoma Nnadi,Owerri,P002,USB-C Hub,Electronics,5,18500,0.0,92500.0,Card,Returned
+O0091,2025-07-23,C019,Femi Ajayi,Abeokuta,P007,Bluetooth Speaker,Electronics,4,26500,0.0,106000.0,Card,Completed
+O0092,2025-12-23,C008,Emeka Obi,Enugu,P002,USB-C Hub,Electronics,3,18500,0.15,47175.0,Card,Completed
+O0093,2025-06-27,C019,Femi Ajayi,Abeokuta,P001,Wireless Mouse,Electronics,2,8500,0.15,14450.0,Cash,Completed
+O0094,2025-08-04,C011,Fatima Sani,Abuja,P001,Wireless Mouse,Electronics,3,8500,0.0,25500.0,USSD,Cancelled
+O0095,2025-08-11,C015,Tomiwa Lawal,Osogbo,P003,Notebook Pack,Stationery,1,3200,0.1,2880.0,Cash,Completed
+O0096,2025-08-27,C018,Maryam Aliyu,Kaduna,P008,Ballpoint Pens,Stationery,1,1800,0.15,1530.0,Cash,Completed
+O0097,2025-05-23,C008,Emeka Obi,Enugu,P002,USB-C Hub,Electronics,4,18500,0.0,74000.0,USSD,Completed
+O0098,2025-01-15,C013,Ngozi Eze,Lagos,P006,Water Bottle,Lifestyle,2,6500,0.0,13000.0,Transfer,Completed
+O0099,2025-06-24,C012,David James,Benin City,P005,Desk Lamp,Furniture,1,14500,0.1,13050.0,Cash,Completed
+O0100,2025-02-13,C017,Samuel Okon,Calabar,P004,Office Chair,Furniture,1,78000,0.05,74100.0,USSD,Completed
+O0101,2025-11-27,C008,Emeka Obi,Enugu,P008,Ballpoint Pens,Stationery,2,1800,0.05,3420.0,Card,Completed
+O0102,2025-12-21,C008,Emeka Obi,Enugu,P007,Bluetooth Speaker,Electronics,1,26500,0.15,22525.0,Cash,Completed
+O0103,2025-08-06,C017,Samuel Okon,Calabar,P006,Water Bottle,Lifestyle,5,6500,0.1,29250.0,Cash,Completed
+O0104,2025-06-06,C015,Tomiwa Lawal,Osogbo,P005,Desk Lamp,Furniture,1,14500,0.0,14500.0,Transfer,Completed
+O0105,2025-04-09,C018,Maryam Aliyu,Kaduna,P003,Notebook Pack,Stationery,1,3200,0.05,3040.0,Cash,Completed
+O0106,2025-05-25,C017,Samuel Okon,Calabar,P010,Backpack,Lifestyle,5,22000,0.0,110000.0,Cash,Completed
+O0107,2025-01-08,C006,Zainab Ibrahim,Kano,P005,Desk Lamp,Furniture,2,14500,0.0,29000.0,Cash,Completed
+O0108,2025-05-30,C002,Tunde Adeyemi,Ibadan,P009,Laptop Stand,Electronics,2,12500,0.0,25000.0,USSD,Completed
+O0109,2025-05-26,C001,Amina Yusuf,Lagos,P010,Backpack,Lifestyle,2,22000,0.05,41800.0,Cash,Completed
+O0110,2025-09-02,C002,Tunde Adeyemi,Ibadan,P005,Desk Lamp,Furniture,1,14500,0.0,14500.0,USSD,Completed
+O0111,2025-03-19,C019,Femi Ajayi,Abeokuta,P001,Wireless Mouse,Electronics,1,8500,0.1,7650.0,Cash,Completed
+O0112,2025-10-13,C008,Emeka Obi,Enugu,P002,USB-C Hub,Electronics,3,18500,0.1,49950.0,Transfer,Completed
+O0113,2025-08-15,C013,Ngozi Eze,Lagos,P008,Ballpoint Pens,Stationery,1,1800,0.1,1620.0,USSD,Completed
+O0114,2025-11-09,C020,Ifeoma Nnadi,Owerri,P001,Wireless Mouse,Electronics,5,8500,0.0,42500.0,Transfer,Completed
+O0115,2025-03-22,C009,Kemi Balogun,Lagos,P002,USB-C Hub,Electronics,1,18500,0.1,16650.0,Card,Completed
+O0116,2025-12-19,C014,Ibrahim Garba,Kano,P008,Ballpoint Pens,Stationery,2,1800,0.0,3600.0,Card,Completed
+O0117,2025-02-06,C010,Seyi Ogunleye,Ibadan,P008,Ballpoint Pens,Stationery,2,1800,0.0,3600.0,Transfer,Completed
+O0118,2025-11-28,C018,Maryam Aliyu,Kaduna,P004,Office Chair,Furniture,1,78000,0.0,78000.0,Transfer,Completed
+O0119,2025-11-01,C006,Zainab Ibrahim,Kano,P005,Desk Lamp,Furniture,3,14500,0.1,39150.0,Cash,Completed
+O0120,2025-12-25,C015,Tomiwa Lawal,Osogbo,P005,Desk Lamp,Furniture,1,14500,0.0,14500.0,USSD,Completed
+O0121,2025-08-10,C020,Ifeoma Nnadi,Owerri,P001,Wireless Mouse,Electronics,3,8500,0.1,22950.0,Cash,Completed
+O0122,2025-10-28,C008,Emeka Obi,Enugu,P010,Backpack,Lifestyle,4,22000,0.15,74800.0,Cash,Completed
+O0123,2025-09-23,C006,Zainab Ibrahim,Kano,P008,Ballpoint Pens,Stationery,2,1800,0.0,3600.0,Transfer,Cancelled
+O0124,2025-02-16,C014,Ibrahim Garba,Kano,P008,Ballpoint Pens,Stationery,2,1800,0.05,3420.0,Cash,Completed
+O0125,2025-06-18,C004,Bola Akinyemi,Lagos,P003,Notebook Pack,Stationery,1,3200,0.05,3040.0,Cash,Completed
+O0126,2025-01-19,C013,Ngozi Eze,Lagos,P009,Laptop Stand,Electronics,2,12500,0.0,25000.0,Cash,Completed
+O0127,2025-01-01,C013,Ngozi Eze,Lagos,P009,Laptop Stand,Electronics,2,12500,0.1,22500.0,USSD,Completed
+O0128,2025-07-05,C007,Adaeze Nwosu,Port Harcourt,P009,Laptop Stand,Electronics,2,12500,0.05,23750.0,USSD,Completed
+O0129,2025-10-09,C007,Adaeze Nwosu,Port Harcourt,P005,Desk Lamp,Furniture,1,14500,0.0,14500.0,USSD,Completed
+O0130,2025-01-15,C016,Grace Peter,Uyo,P002,USB-C Hub,Electronics,5,18500,0.1,83250.0,Transfer,Completed
+O0131,2025-01-08,C010,Seyi Ogunleye,Ibadan,P009,Laptop Stand,Electronics,2,12500,0.0,25000.0,Transfer,Cancelled
+O0132,2025-03-02,C004,Bola Akinyemi,Lagos,P008,Ballpoint Pens,Stationery,2,1800,0.0,3600.0,USSD,Returned
+O0133,2025-12-28,C010,Seyi Ogunleye,Ibadan,P009,Laptop Stand,Electronics,1,12500,0.05,11875.0,USSD,Completed
+O0134,2025-07-16,C018,Maryam Aliyu,Kaduna,P003,Notebook Pack,Stationery,1,3200,0.1,2880.0,Transfer,Completed
+O0135,2025-06-24,C009,Kemi Balogun,Lagos,P007,Bluetooth Speaker,Electronics,4,26500,0.1,95400.0,Cash,Completed
+O0136,2025-10-28,C010,Seyi Ogunleye,Ibadan,P005,Desk Lamp,Furniture,2,14500,0.15,24650.0,USSD,Completed
+O0137,2025-09-05,C015,Tomiwa Lawal,Osogbo,P009,Laptop Stand,Electronics,1,12500,0.1,11250.0,USSD,Completed
+O0138,2025-12-24,C011,Fatima Sani,Abuja,P004,Office Chair,Furniture,1,78000,0.05,74100.0,Transfer,Completed
+O0139,2025-06-12,C014,Ibrahim Garba,Kano,P001,Wireless Mouse,Electronics,3,8500,0.15,21675.0,USSD,Completed
+O0140,2025-01-19,C005,Musa Bello,Abuja,P008,Ballpoint Pens,Stationery,1,1800,0.1,1620.0,Cash,Completed
+O0141,2025-09-27,C015,Tomiwa Lawal,Osogbo,P002,USB-C Hub,Electronics,4,18500,0.0,74000.0,Transfer,Completed
+O0142,2025-08-29,C005,Musa Bello,Abuja,P002,USB-C Hub,Electronics,3,18500,0.0,55500.0,Cash,Completed
+O0143,2025-06-18,C013,Ngozi Eze,Lagos,P002,USB-C Hub,Electronics,3,18500,0.1,49950.0,USSD,Cancelled
+O0144,2025-01-19,C016,Grace Peter,Uyo,P009,Laptop Stand,Electronics,2,12500,0.0,25000.0,Cash,Cancelled
+O0145,2025-02-20,C003,Chika Okafor,Enugu,P007,Bluetooth Speaker,Electronics,3,26500,0.15,67575.0,Card,Completed
+O0146,2025-01-24,C010,Seyi Ogunleye,Ibadan,P001,Wireless Mouse,Electronics,1,8500,0.0,8500.0,Cash,Completed
+O0147,2025-05-06,C014,Ibrahim Garba,Kano,P003,Notebook Pack,Stationery,2,3200,0.1,5760.0,Transfer,Completed
+O0148,2025-07-15,C003,Chika Okafor,Enugu,P010,Backpack,Lifestyle,2,22000,0.0,44000.0,USSD,Returned
+O0149,2025-08-25,C005,Musa Bello,Abuja,P004,Office Chair,Furniture,2,78000,0.05,148200.0,Cash,Completed
+O0150,2025-12-13,C015,Tomiwa Lawal,Osogbo,P005,Desk Lamp,Furniture,2,14500,0.0,29000.0,USSD,Returned
+O0151,2025-11-24,C019,Femi Ajayi,Abeokuta,P005,Desk Lamp,Furniture,5,14500,0.15,61625.0,Cash,Completed
+O0152,2025-07-16,C010,Seyi Ogunleye,Ibadan,P004,Office Chair,Furniture,3,78000,0.0,234000.0,Transfer,Completed
+O0153,2025-06-01,C012,David James,Benin City,P010,Backpack,Lifestyle,5,22000,0.0,110000.0,Card,Cancelled
+O0154,2025-01-05,C013,Ngozi Eze,Lagos,P005,Desk Lamp,Furniture,2,14500,0.15,24650.0,Card,Returned
+O0155,2025-04-28,C016,Grace Peter,Uyo,P005,Desk Lamp,Furniture,2,14500,0.0,29000.0,Transfer,Completed
+O0156,2025-12-14,C020,Ifeoma Nnadi,Owerri,P005,Desk Lamp,Furniture,3,14500,0.15,36975.0,Transfer,Completed
+O0157,2025-08-14,C002,Tunde Adeyemi,Ibadan,P005,Desk Lamp,Furniture,1,14500,0.0,14500.0,Transfer,Completed
+O0158,2025-08-01,C010,Seyi Ogunleye,Ibadan,P006,Water Bottle,Lifestyle,1,6500,0.0,6500.0,Cash,Completed
+O0159,2025-05-12,C009,Kemi Balogun,Lagos,P003,Notebook Pack,Stationery,4,3200,0.05,12160.0,Cash,Completed
+O0160,2025-08-28,C011,Fatima Sani,Abuja,P002,USB-C Hub,Electronics,5,18500,0.0,92500.0,Transfer,Completed
+O0161,2025-07-07,C013,Ngozi Eze,Lagos,P009,Laptop Stand,Electronics,1,12500,0.05,11875.0,Card,Completed
+O0162,2025-07-08,C004,Bola Akinyemi,Lagos,P008,Ballpoint Pens,Stationery,2,1800,0.15,3060.0,Cash,Completed
+O0163,2025-12-12,C012,David James,Benin City,P002,USB-C Hub,Electronics,1,18500,0.0,18500.0,Cash,Returned
+O0164,2025-11-22,C008,Emeka Obi,Enugu,P002,USB-C Hub,Electronics,3,18500,0.15,47175.0,Cash,Completed
+O0165,2025-01-24,C004,Bola Akinyemi,Lagos,P003,Notebook Pack,Stationery,4,3200,0.0,12800.0,USSD,Completed
+O0166,2025-03-11,C008,Emeka Obi,Enugu,P009,Laptop Stand,Electronics,1,12500,0.0,12500.0,USSD,Completed
+O0167,2025-12-02,C005,Musa Bello,Abuja,P007,Bluetooth Speaker,Electronics,1,26500,0.05,25175.0,USSD,Returned
+O0168,2025-12-20,C009,Kemi Balogun,Lagos,P001,Wireless Mouse,Electronics,1,8500,0.05,8075.0,USSD,Cancelled
+O0169,2025-12-18,C012,David James,Benin City,P002,USB-C Hub,Electronics,1,18500,0.15,15725.0,Cash,Completed
+O0170,2025-03-04,C009,Kemi Balogun,Lagos,P004,Office Chair,Furniture,4,78000,0.05,296400.0,Card,Completed
+O0171,2025-01-26,C020,Ifeoma Nnadi,Owerri,P001,Wireless Mouse,Electronics,3,8500,0.0,25500.0,Transfer,Completed
+O0172,2025-10-11,C007,Adaeze Nwosu,Port Harcourt,P002,USB-C Hub,Electronics,1,18500,0.0,18500.0,Transfer,Completed
+O0173,2025-01-02,C005,Musa Bello,Abuja,P010,Backpack,Lifestyle,1,22000,0.0,22000.0,Transfer,Completed
+O0174,2025-12-05,C006,Zainab Ibrahim,Kano,P002,USB-C Hub,Electronics,3,18500,0.0,55500.0,Card,Completed
+O0175,2025-06-15,C008,Emeka Obi,Enugu,P010,Backpack,Lifestyle,1,22000,0.0,22000.0,Card,Completed
+O0176,2025-02-28,C014,Ibrahim Garba,Kano,P009,Laptop Stand,Electronics,3,12500,0.05,35625.0,USSD,Completed
+O0177,2025-02-25,C017,Samuel Okon,Calabar,P010,Backpack,Lifestyle,2,22000,0.0,44000.0,Card,Completed
+O0178,2025-08-23,C017,Samuel Okon,Calabar,P005,Desk Lamp,Furniture,2,14500,0.0,29000.0,Card,Cancelled
+O0179,2025-12-18,C013,Ngozi Eze,Lagos,P007,Bluetooth Speaker,Electronics,1,26500,0.15,22525.0,USSD,Completed
+O0180,2025-11-08,C003,Chika Okafor,Enugu,P006,Water Bottle,Lifestyle,1,6500,0.0,6500.0,Cash,Completed
+O0181,2025-12-31,C019,Femi Ajayi,Abeokuta,P009,Laptop Stand,Electronics,1,12500,0.1,11250.0,Cash,Completed
+O0182,2025-02-20,C020,Ifeoma Nnadi,Owerri,P007,Bluetooth Speaker,Electronics,3,26500,0.0,79500.0,Transfer,Completed
+O0183,2025-06-23,C008,Emeka Obi,Enugu,P007,Bluetooth Speaker,Electronics,3,26500,0.05,75525.0,USSD,Completed
+O0184,2025-06-10,C011,Fatima Sani,Abuja,P007,Bluetooth Speaker,Electronics,2,26500,0.0,53000.0,Transfer,Completed
+O0185,2025-02-16,C016,Grace Peter,Uyo,P002,USB-C Hub,Electronics,3,18500,0.0,55500.0,USSD,Completed
+O0186,2025-10-12,C012,David James,Benin City,P003,Notebook Pack,Stationery,1,3200,0.1,2880.0,Cash,Completed
+O0187,2025-12-07,C014,Ibrahim Garba,Kano,P006,Water Bottle,Lifestyle,4,6500,0.05,24700.0,Card,Cancelled
+O0188,2025-06-30,C020,Ifeoma Nnadi,Owerri,P005,Desk Lamp,Furniture,1,14500,0.1,13050.0,Transfer,Completed
+O0189,2025-02-25,C016,Grace Peter,Uyo,P004,Office Chair,Furniture,1,78000,0.1,70200.0,Cash,Completed
+O0190,2025-04-26,C009,Kemi Balogun, Lagos ,P010,Backpack,Lifestyle,3,22000,0.1,59400.0,Card,Completed
+O0191,2025-04-03,C009,Kemi Balogun,Lagos,P001,Wireless Mouse,Electronics,1,8500,0.0,8500.0,Cash,Completed
+O0192,2025-10-17,C006,Zainab Ibrahim,Kano,P003,Notebook Pack,Stationery,2,3200,0.0,6400.0,Transfer,Completed
+O0193,2025-09-29,C001,Amina Yusuf,Lagos,P002,USB-C Hub,Electronics,1,18500,0.05,17575.0,USSD,Completed
+O0194,2025-06-16,C012,David James,Benin City,P005,Desk Lamp,Furniture,3,14500,0.1,39150.0,Card,Completed
+O0195,2025-11-13,C005,Musa Bello,Abuja,P003,Notebook Pack,Stationery,1,3200,0.0,3200.0,Cash,Completed
+O0196,2025-11-07,C014,Ibrahim Garba,Kano,P008,Ballpoint Pens,Stationery,1,1800,0.0,1800.0,Transfer,Completed
+O0197,2025-08-09,C004,Bola Akinyemi,Lagos,P006,Water Bottle,Lifestyle,1,6500,0.15,5525.0,USSD,Completed
+O0198,2025-04-23,C010,Seyi Ogunleye,Ibadan,P001,Wireless Mouse,Electronics,1,8500,0.1,7650.0,Card,Completed
+O0199,2025-03-12,C010,Seyi Ogunleye,Ibadan,P004,Office Chair,Furniture,3,78000,0.0,234000.0,Cash,Completed
+O0200,2025-03-31,C016,Grace Peter,Uyo,P007,Bluetooth Speaker,Electronics,1,26500,0.1,23850.0,Transfer,Completed
+O0201,2025-07-23,C012,David James,Benin City,P002,USB-C Hub,Electronics,3,18500,0.0,55500.0,USSD,Completed
+O0202,2025-10-22,C003,Chika Okafor,Enugu,P006,Water Bottle,Lifestyle,1,6500,0.05,6175.0,USSD,Completed
+O0203,2025-06-16,C013,Ngozi Eze,Lagos,P001,Wireless Mouse,Electronics,1,8500,0.1,7650.0,USSD,Completed
+O0204,2025-08-12,C012,David James,Benin City,P002,USB-C Hub,Electronics,3,18500,0.0,55500.0,USSD,Completed
+O0205,2025-07-22,C017,Samuel Okon,Calabar,P002,USB-C Hub,Electronics,3,18500,0.15,47175.0,Cash,Completed
+O0206,2025-09-19,C006,Zainab Ibrahim,Kano,P002,USB-C Hub,Electronics,2,18500,0.1,33300.0,Transfer,Returned
+O0207,2025-11-27,C012,David James,Benin City,P006,Water Bottle,Lifestyle,3,6500,0.0,19500.0,Card,Completed
+O0208,2025-11-05,C007,Adaeze Nwosu,Port Harcourt,P003,Notebook Pack,Stationery,1,3200,0.15,2720.0,Card,Completed
+O0209,2025-10-16,C016,Grace Peter,Uyo,P008,Ballpoint Pens,Stationery,3,1800,0.05,5130.0,Cash,Completed
+O0210,2025-08-14,C011,Fatima Sani,Abuja,P003,Notebook Pack,Stationery,1,3200,0.05,3040.0,Cash,Completed
+O0211,2025-06-30,C019,Femi Ajayi,Abeokuta,P001,Wireless Mouse,Electronics,2,8500,0.0,17000.0,USSD,Completed
+O0212,2025-05-27,C002,Tunde Adeyemi,Ibadan,P006,Water Bottle,Lifestyle,1,6500,0.0,6500.0,USSD,Completed
+O0213,2025-08-19,C018,Maryam Aliyu,Kaduna,P001,Wireless Mouse,Electronics,4,8500,0.1,30600.0,Transfer,Completed
+O0214,2025-03-19,C016,Grace Peter,Uyo,P009,Laptop Stand,Electronics,4,12500,0.05,47500.0,Card,Completed
+O0215,2025-09-16,C011,Fatima Sani,Abuja,P002,USB-C Hub,Electronics,2,18500,0.0,37000.0,Transfer,Completed
+O0216,2025-09-25,C015,Tomiwa Lawal,Osogbo,P009,Laptop Stand,Electronics,2,12500,0.0,25000.0,Cash,Returned
+O0217,2025-06-23,C013,Ngozi Eze,Lagos,P007,Bluetooth Speaker,Electronics,2,26500,0.0,53000.0,Cash,Completed
+O0218,2025-12-14,C004,Bola Akinyemi,Lagos,P009,Laptop Stand,Electronics,1,12500,0.0,12500.0,Transfer,Completed
+O0219,2025-06-29,C019,Femi Ajayi,Abeokuta,P003,Notebook Pack,Stationery,1,3200,0.15,2720.0,USSD,Completed
+O0220,2025-10-14,C003,Chika Okafor,Enugu,P005,Desk Lamp,Furniture,1,14500,0.0,14500.0,Transfer,Completed
+O0221,2025-11-27,C017,Samuel Okon,Calabar,P002,USB-C Hub,Electronics,2,18500,0.1,33300.0,Cash,Completed
+O0222,2025-04-20,C010,Seyi Ogunleye,Ibadan,P003,Notebook Pack,Stationery,1,3200,0.05,3040.0,Transfer,Completed
+O0223,2025-02-09,C005,Musa Bello,Abuja,P003,Notebook Pack,Stationery,1,3200,0.0,3200.0,Card,Completed
+O0224,2025-11-02,C020,Ifeoma Nnadi,Owerri,P003,Notebook Pack,Stationery,1,3200,0.0,3200.0,Transfer,Completed
+O0225,2025-08-13,C020,Ifeoma Nnadi,Owerri,P003,Notebook Pack,Stationery,1,3200,0.0,3200.0,Transfer,Cancelled
+O0226,2025-08-18,C020,Ifeoma Nnadi,Owerri,P005,Desk Lamp,Furniture,1,14500,0.0,14500.0,Cash,Cancelled
+O0227,2025-07-08,C016,Grace Peter,Uyo,P004,Office Chair,Furniture,2,78000,0.1,140400.0,USSD,Completed
+O0228,2025-09-15,C010,Seyi Ogunleye,Ibadan,P007,Bluetooth Speaker,Electronics,2,26500,0.0,53000.0,Transfer,Completed
+O0229,2025-01-27,C005,Musa Bello,Abuja,P005,Desk Lamp,Furniture,2,14500,0.0,29000.0,Card,Completed
+O0230,2025-05-26,C017,Samuel Okon,Calabar,P002,USB-C Hub,Electronics,1,18500,0.0,18500.0,Cash,Completed
+O0231,2025-08-12,C017,Samuel Okon,Calabar,P003,Notebook Pack,Stationery,1,3200,0.0,3200.0,USSD,Completed
+O0232,2025-01-28,C001,Amina Yusuf,Lagos,P007,Bluetooth Speaker,Electronics,1,26500,0.0,26500.0,Transfer,Completed
+O0233,2025-04-25,C003,Chika Okafor,Enugu,P006,Water Bottle,Lifestyle,1,6500,0.0,6500.0,Cash,Completed
+O0234,2025-05-27,C005,Musa Bello,Abuja,P001,Wireless Mouse,Electronics,4,8500,0.05,32300.0,Transfer,Completed
+O0235,2025-11-12,C016,Grace Peter,Uyo,P008,Ballpoint Pens,Stationery,1,1800,0.0,1800.0,Card,Completed
+O0236,2025-11-08,C005,Musa Bello,Abuja,P009,Laptop Stand,Electronics,2,12500,0.0,25000.0,Cash,Completed
+O0237,2025-05-03,C004,Bola Akinyemi,Lagos,P001,Wireless Mouse,Electronics,1,8500,0.1,7650.0,USSD,Completed
+O0238,2025-10-02,C016,Grace Peter,Uyo,P010,Backpack,Lifestyle,1,22000,0.1,19800.0,Transfer,Completed
+O0239,2025-01-01,C010,Seyi Ogunleye,Ibadan,P007,Bluetooth Speaker,Electronics,2,26500,0.0,53000.0,USSD,Completed
+O0240,2025-07-04,C003,Chika Okafor,Enugu,P009,Laptop Stand,Electronics,1,12500,0.1,11250.0,Card,Completed
+O0241,2025-11-22,C016,Grace Peter,Uyo,P001,Wireless Mouse,Electronics,1,8500,0.0,8500.0,Cash,Completed
+O0242,2025-06-26,C012,David James,Benin City,P002,USB-C Hub,Electronics,1,18500,0.15,15725.0,Card,Completed
+O0243,2025-01-23,C011,Fatima Sani,Abuja,P003,Notebook Pack,Stationery,1,3200,0.0,3200.0,Transfer,Completed
+O0244,2025-11-20,C015,Tomiwa Lawal,Osogbo,P008,Ballpoint Pens,Stationery,1,1800,0.0,1800.0,Card,Completed
+O0245,2025-05-31,C015,Tomiwa Lawal,Osogbo,P001,Wireless Mouse,Electronics,1,8500,0.0,8500.0,Card,Completed
+O0246,2025-07-23,C010,Seyi Ogunleye,Ibadan,P009,Laptop Stand,Electronics,5,12500,0.1,56250.0,USSD,Completed
+O0247,2025-07-02,C007,Adaeze Nwosu,Port Harcourt,P005,Desk Lamp,Furniture,3,14500,0.0,43500.0,Cash,Completed
+O0248,2025-07-24,C012,David James,Benin City,P007,Bluetooth Speaker,Electronics,3,26500,0.05,75525.0,Cash,Cancelled
+O0249,2025-07-08,C016,Grace Peter,Uyo,P008,Ballpoint Pens,Stationery,4,1800,0.1,6480.0,Cash,Completed
+O0250,2025-08-09,C014,Ibrahim Garba,Kano,P002,USB-C Hub,Electronics,2,18500,0.0,37000.0,Cash,Completed
